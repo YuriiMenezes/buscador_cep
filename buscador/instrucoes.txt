@@ -1,0 +1,33 @@
+  
+
+baixar node js 
+
+https://nodejs.org/pt-br/download/
+
+no terminal ver a versão do node js
+
+- node -v
+
+criando o projeto dentro da pasta
+
+- npx create-react-app buscador
+
+abrir a pasta do projeto
+
+-cd buscador
+
+rodar o projeto
+
+-npm start
+
+instalando uma biblioteca para trabalhar com icones
+
+-npm install react-icons
+
+instalando biblioteca pra lidar com requisições http
+
+Axios
+
+- npm isntall axios
+
+https://viacep.com.br/ws/01310930/json
